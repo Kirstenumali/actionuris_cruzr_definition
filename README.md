@@ -1,7 +1,7 @@
 # actionuris_cruzr_definition
 
 Q1: What are the Cruzr's motion that his hands are moving on the button only.
-1.
+N/A
 
 Q2: What is the Actionuri that **isn't bothering much**?
 1. **SEARCHING** - The head is swaying from top to bottom.
