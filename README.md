@@ -20,3 +20,17 @@ Q3: What is the ActionUri that is **bothering too much**?
 6. **SURPRISE** - The robot is bothering so much there both arms is widely used.
 
 
+
+# Emotion String Types
+1. Uri emotionUri = Uri.parse("emotion://va/littlestar_love");
+2. Uri emotionUri = Uri.parse("emotion://va/littlestar_smile");
+## You look surprised emotion
+3. Uri emotionUri = Uri.parse("emotion://va/littlestar_amazing");
+## His face looks like he's scared
+4. Uri emotionUri = Uri.parse("emotion://va/littlestar_daze");
+## His face looks like he's singing on his lips and looking up lively
+4. Uri emotionUri = Uri.parse("emotion://va/littlestar_embarassed");
+
+
+
+
