@@ -24,12 +24,18 @@ Q3: What is the ActionUri that is **bothering too much**?
 # Emotion String Types
 1. Uri emotionUri = Uri.parse("emotion://va/littlestar_love");
 2. Uri emotionUri = Uri.parse("emotion://va/littlestar_smile");
-## You look surprised emotion
-3. Uri emotionUri = Uri.parse("emotion://va/littlestar_amazing");
-## His face looks like he's scared
-4. Uri emotionUri = Uri.parse("emotion://va/littlestar_daze");
-## His face looks like he's singing on his lips and looking up lively
-4. Uri emotionUri = Uri.parse("emotion://va/littlestar_embarassed");
+## 3. You look surprised emotion
+``` bash
+Uri emotionUri = Uri.parse("emotion://va/littlestar_amazing");
+```
+## 4. His face looks like he's scared
+``` bash
+Uri emotionUri = Uri.parse("emotion://va/littlestar_daze");
+```
+## 5. His face looks like he's singing on his lips and looking up lively
+``` bash
+Uri emotionUri = Uri.parse("emotion://va/littlestar_embarassed");
+```
 
 
 
